@@ -1,5 +1,7 @@
 Plugin for lazy loading images. 
 
+See <a href="http://epic-zhara.ru/demo/lazyload">Demo</a>.
+
 Working with all elements - if IMG add path in src attribute, for div's add background-image.
 
 Connect Lazyload.js before closed body tag:
