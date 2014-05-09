@@ -24,3 +24,8 @@ Add styles for blaze up:
 				    opacity: 1;
 				}
 		</style>
+
+Fire: 
+	<script>	
+		Lazyload.start()
+	</script>
