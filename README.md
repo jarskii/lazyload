@@ -26,6 +26,6 @@ Add styles for blaze up:
 		</style>
 
 Fire: 
-	<script>	
+	<script type="text/javascript">	
 		Lazyload.start()
 	</script>
